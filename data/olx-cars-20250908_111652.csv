@@ -1,3 +1,0 @@
-titlu,pret_text,pret_numeric,an,kilometraj,locatie,link,imagini_urls,combustibil,transmisie,caroserie,marca,model,id_unic,data_scraping
-Test Car 1,"€15,000",15000,2020,"50,000",Bucharest,https://test.example.com,https://img1.example.com;https://img2.example.com,Benzina,Manuala,Berlina,Test Brand,Test Model,TEST001,2025-09-08 11:16:52
-Test Car 2,"€25,000",25000,2021,"30,000",Cluj-Napoca,https://test2.example.com,https://img3.example.com,Diesel,Automata,SUV,Another Brand,Another Model,TEST002,2025-09-08 11:16:52
