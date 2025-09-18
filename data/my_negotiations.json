@@ -26,5 +26,33 @@
     "transmisie": "automatic",
     "caroserie": "Berlina",
     "notes": "i-am dat 34"
+  },
+  {
+    "id": "negotiation-1758211043372-slu9q6vn3",
+    "added_at": "2025-09-18T15:57:23.373Z",
+    "adId": "olx_jOQcI",
+    "titlu": "Vand Bmw X 6",
+    "pret_numeric": 14992,
+    "year": 2023,
+    "kilometraj": "30 000",
+    "marca": "BMW",
+    "model": "Unknown",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/mjq88w4fyr391-RO/image",
+      "s=768x1024",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/hp2kxa9oxax6-RO/image",
+      "s=1024x768",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/9czw8rsvg3xp3-RO/image",
+      "s=768x1024",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/woz3x5esktnu1-RO/image",
+      "s=768x1024",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/zj71agj9mcz63-RO/image",
+      "s=1024x768"
+    ],
+    "link": "https://www.olx.ro/d/oferta/vand-bmw-x-6-IDjOQcI.html",
+    "combustibil": "diesel",
+    "transmisie": "automatic",
+    "caroserie": "Cabrio",
+    "notes": ""
   }
 ]
