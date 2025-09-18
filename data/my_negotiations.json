@@ -54,5 +54,33 @@
     "transmisie": "automatic",
     "caroserie": "Cabrio",
     "notes": ""
+  },
+  {
+    "id": "negotiation-1758237927317-5bt35ihhd",
+    "added_at": "2025-09-18T23:25:27.317Z",
+    "adId": "olx_jJ1ra",
+    "titlu": "Audi Q3 Sportback Primul Proprietar",
+    "pret_numeric": 32000,
+    "year": 2021,
+    "kilometraj": "30 400",
+    "marca": "Audi",
+    "model": "Q3",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/wt66zdjnlw17-RO/image",
+      "s=2000x1500",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/et9p3fbhd2w13-RO/image",
+      "s=1500x2000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/v6ok3wf7epo3-RO/image",
+      "s=1500x2000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/0i76lssh7uil1-RO/image",
+      "s=1500x2000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/wq9f29nfai5i3-RO/image",
+      "s=1500x2000"
+    ],
+    "link": "https://www.olx.ro/d/oferta/audi-q3-sportback-primul-proprietar-IDjJ1ra.html",
+    "combustibil": "diesel",
+    "transmisie": "automatic",
+    "caroserie": "Hatchback",
+    "notes": ""
   }
 ]
