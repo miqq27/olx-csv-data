@@ -82,5 +82,33 @@
     "transmisie": "automatic",
     "caroserie": "Hatchback",
     "notes": ""
+  },
+  {
+    "id": "negotiation-1758237995658-pqebc6npz",
+    "added_at": "2025-09-18T23:26:35.658Z",
+    "adId": "olx_inBM2",
+    "titlu": "Audi Q5 35 000 Km 2021 Panoramic Camera Keyless",
+    "pret_numeric": 33800,
+    "year": 2021,
+    "kilometraj": "35 000",
+    "marca": "Audi",
+    "model": "Q5",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/pnap72rj1fcn-RO/image",
+      "s=1008x756",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/v7d7enoh38lu-RO/image",
+      "s=1008x756",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/pcgh0qz44bsq-RO/image",
+      "s=756x1008",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/bl9nm6ru4w9j2-RO/image",
+      "s=1008x756",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/klll33x2fa6l1-RO/image",
+      "s=768x1024"
+    ],
+    "link": "https://www.olx.ro/d/oferta/audi-q5-35-000-km-2021-panoramic-camera-keyless-IDinBM2.html",
+    "combustibil": "petrol",
+    "transmisie": "automatic",
+    "caroserie": "SUV",
+    "notes": ""
   }
 ]
