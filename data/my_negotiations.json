@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "negotiation-1758199128702-wo80ixk1a",
+    "added_at": "2025-09-18T12:38:48.702Z",
+    "adId": "olx_jv1uD",
+    "titlu": "Audi A8L 3 0 50Tdi Mild Hybrid Lasser Head Up Accept Variante",
+    "pret_numeric": 40000,
+    "year": 2018,
+    "kilometraj": "160 000",
+    "marca": "Audi",
+    "model": "A8",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/c0262oofy6hw-RO/image",
+      "s=720x1266",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/uqs4pox0khz72-RO/image",
+      "s=1426x665",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/jggqcth6p4qu-RO/image",
+      "s=1440x1488",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/pdc49zd7ftsa2-RO/image",
+      "s=1024x1024",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/1uzlepfjo0yy2-RO/image",
+      "s=1425x674"
+    ],
+    "link": "https://www.olx.ro/d/oferta/audi-a8l-3-0-50tdi-mild-hybrid-lasser-head-up-accept-variante-IDjv1uD.html",
+    "combustibil": "diesel",
+    "transmisie": "automatic",
+    "caroserie": "Berlina",
+    "notes": ""
+  }
+]
