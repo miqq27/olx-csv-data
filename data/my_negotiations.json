@@ -26,5 +26,33 @@
     "transmisie": "automatic",
     "caroserie": "Hatchback",
     "notes": ""
+  },
+  {
+    "id": "negotiation-1758189880655-fxii0m14v",
+    "added_at": "2025-09-18T10:04:40.655Z",
+    "adId": "olx_jOG9m",
+    "titlu": "Audi A4 2023 Avariat",
+    "pret_numeric": 16300,
+    "year": 2023,
+    "kilometraj": "180 000",
+    "marca": "Audi",
+    "model": "A4",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/dsi6h98vuln31-RO/image",
+      "s=1024x768",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/p9rd2ijpjfnt3-RO/image",
+      "s=1024x768",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/5fv9u5d6ltoc2-RO/image",
+      "s=1024x768",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/xehvud9e7wif2-RO/image",
+      "s=1024x768",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/a0qc40ojl2eb3-RO/image",
+      "s=1024x768"
+    ],
+    "link": "https://www.olx.ro/d/oferta/audi-a4-2023-avariat-IDjOG9m.html",
+    "combustibil": "diesel",
+    "transmisie": "automatic",
+    "caroserie": "Berlina",
+    "notes": ""
   }
 ]
