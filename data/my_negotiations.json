@@ -54,5 +54,28 @@
     "transmisie": "automatic",
     "caroserie": "Cabrio",
     "notes": ""
+  },
+  {
+    "id": "negotiation-1758581042619-p1furkg40",
+    "added_at": "2025-09-22T22:44:02.619Z",
+    "adId": "olx_jL52D",
+    "titlu": "Bmw 530E G30 2018 Hibrid Full Led Softclose Nappa 252 Cp E6",
+    "pret_numeric": 18999,
+    "year": "2018",
+    "kilometraj": "182 000",
+    "marca": "BMW",
+    "model": "Unknown",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/g8oz0gythy262-RO/image;s=1600x810",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/xr6bsxpf288-RO/image;s=1600x824",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/pfdfcga3zr8k1-RO/image;s=1600x813",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/3tlgiopu4jr83-RO/image;s=1600x835",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/plsv2vgia8762-RO/image;s=1600x898"
+    ],
+    "link": "https://www.olx.ro/d/oferta/bmw-530e-g30-2018-hibrid-full-led-softclose-nappa-252-cp-e6-IDjL52D.html",
+    "combustibil": "N/A",
+    "transmisie": "N/A",
+    "caroserie": "Berlina",
+    "notes": ""
   }
 ]
