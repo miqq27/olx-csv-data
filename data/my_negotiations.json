@@ -110,33 +110,5 @@
     "transmisie": "automatic",
     "caroserie": "SUV",
     "notes": ""
-  },
-  {
-    "id": "negotiation-1758238074385-5x7qkw4dl",
-    "added_at": "2025-09-18T23:27:54.385Z",
-    "adId": "olx_jI17E",
-    "titlu": "Vand Audi Q7 Tfsi Quattro 2018 S Line",
-    "pret_numeric": 29000,
-    "year": 2018,
-    "kilometraj": "85 000",
-    "marca": "Audi",
-    "model": "Q7",
-    "images": [
-      "https://frankfurt.apollo.olxcdn.com:443/v1/files/5q7wuq5r24cq1-RO/image",
-      "s=765x1020",
-      "https://frankfurt.apollo.olxcdn.com:443/v1/files/qmxe2z2jmfqj3-RO/image",
-      "s=1020x765",
-      "https://frankfurt.apollo.olxcdn.com:443/v1/files/0ma75j18n8312-RO/image",
-      "s=1020x765",
-      "https://frankfurt.apollo.olxcdn.com:443/v1/files/sti2ygphc04j1-RO/image",
-      "s=1020x765",
-      "https://frankfurt.apollo.olxcdn.com:443/v1/files/h0mnu25gegps2-RO/image",
-      "s=1020x765"
-    ],
-    "link": "https://www.olx.ro/d/oferta/vand-audi-q7-tfsi-quattro-2018-s-line-IDjI17E.html",
-    "combustibil": "petrol",
-    "transmisie": "automatic",
-    "caroserie": "SUV",
-    "notes": ""
   }
 ]
