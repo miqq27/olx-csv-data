@@ -77,5 +77,28 @@
     "transmisie": "automatic",
     "caroserie": "Berlina",
     "notes": ""
+  },
+  {
+    "id": "negotiation-1758626696527-bfv3mi3x1",
+    "added_at": "2025-09-23T11:24:56.527Z",
+    "adId": "olx_jyxFr",
+    "titlu": "Audi Rs Q3 2024 Garantie",
+    "pret_numeric": 58500,
+    "year": "2024",
+    "kilometraj": "11 500",
+    "marca": "Audi",
+    "model": "Q3",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/a66tzflpz9271-RO/image;s=750x1000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/5g3jzhn24apu3-RO/image;s=750x1000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/loqggjw5fupr2-RO/image;s=750x1000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/emzc2njfpxmx2-RO/image;s=1000x750",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/mo7jtz2mz63r1-RO/image;s=1000x750"
+    ],
+    "link": "https://www.olx.ro/d/oferta/audi-rs-q3-2024-garantie-IDjyxFr.html",
+    "combustibil": "petrol",
+    "transmisie": "automatic",
+    "caroserie": "SUV",
+    "notes": ""
   }
 ]
