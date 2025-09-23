@@ -54,5 +54,28 @@
     "transmisie": "automatic",
     "caroserie": "Cabrio",
     "notes": ""
+  },
+  {
+    "id": "negotiation-1758624175309-edotv1t6d",
+    "added_at": "2025-09-23T10:42:55.309Z",
+    "adId": "olx_jnZuU",
+    "titlu": "Mercedes Benz E300 Plug In Hybrid",
+    "pret_numeric": 25400,
+    "year": "2019",
+    "kilometraj": "152 000",
+    "marca": "Unknown",
+    "model": "Unknown",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/th2mhryqp8pd2-RO/image;s=750x1000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/4csn9f6pxd3r3-RO/image;s=750x1000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/m0zcqgwv0xkf1-RO/image;s=750x1000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/tovqlw1cqwy6-RO/image;s=750x1000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/eu7bsnera5kw-RO/image;s=750x1000"
+    ],
+    "link": "https://www.olx.ro/d/oferta/mercedes-benz-e300-plug-in-hybrid-IDjnZuU.html",
+    "combustibil": "petrol",
+    "transmisie": "automatic",
+    "caroserie": "Berlina",
+    "notes": ""
   }
 ]
