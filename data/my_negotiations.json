@@ -100,5 +100,28 @@
     "transmisie": "automatic",
     "caroserie": "SUV",
     "notes": ""
+  },
+  {
+    "id": "negotiation-1758704692506-iv4l6jlvt",
+    "added_at": "2025-09-24T09:04:52.506Z",
+    "adId": "olx_jFB31",
+    "titlu": "Mercedes E Class W213 9G Tronic Amg 194Cp Euro 6",
+    "pret_numeric": 23000,
+    "year": "2017",
+    "kilometraj": "175 000",
+    "marca": "MG",
+    "model": "Unknown",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/ilo2o36bi1f01-RO/image;s=2000x1500",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/rqwgjc8nl8z23-RO/image;s=2000x1155",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/bvemwlutxozg1-RO/image;s=2000x994",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/n9xkk4dhf9wv2-RO/image;s=2000x1500",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/acyayjihpuvt3-RO/image;s=3280x1791"
+    ],
+    "link": "https://www.olx.ro/d/oferta/mercedes-e-class-w213-9g-tronic-amg-194cp-euro-6-IDjFB31.html",
+    "combustibil": "diesel",
+    "transmisie": "automatic",
+    "caroserie": "Berlina",
+    "notes": ""
   }
 ]
