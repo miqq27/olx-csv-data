@@ -146,5 +146,28 @@
     "transmisie": "automatic",
     "caroserie": "Berlina",
     "notes": "mi-a lasat 23. trb sa-i dau oferta \n"
+  },
+  {
+    "id": "negotiation-1758737362627-web2rzn17",
+    "added_at": "2025-09-24T18:09:22.627Z",
+    "adId": "olx_jDvpK",
+    "titlu": "Mercedes Gle 350 De 4 Matic",
+    "pret_numeric": 39750,
+    "year": "2021",
+    "kilometraj": "155 000",
+    "marca": "Unknown",
+    "model": "Unknown",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/y5uwkvc9tuv6-RO/image;s=889x1000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/yjx4q1fdk4wf-RO/image;s=750x1000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/ds071xp98bj41-RO/image;s=750x1000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/06azcbgwjz8v2-RO/image;s=801x1000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/8plb66s91qyf-RO/image;s=750x1000"
+    ],
+    "link": "https://www.olx.ro/d/oferta/mercedes-gle-350-de-4-matic-IDjDvpK.html",
+    "combustibil": "hybrid",
+    "transmisie": "automatic",
+    "caroserie": "SUV",
+    "notes": ""
   }
 ]
