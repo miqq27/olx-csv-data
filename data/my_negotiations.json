@@ -123,5 +123,28 @@
     "transmisie": "automatic",
     "caroserie": "Berlina",
     "notes": ""
+  },
+  {
+    "id": "negotiation-1758704897604-bcj0cxy4u",
+    "added_at": "2025-09-24T09:08:17.604Z",
+    "adId": "olx_jmD1X",
+    "titlu": "Ocazie Vand Audi A 6 Masina De Familie",
+    "pret_numeric": 24500,
+    "year": "2019",
+    "kilometraj": "162 000",
+    "marca": "Audi",
+    "model": "Unknown",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/mgri5vvym4pd3-RO/image;s=1000x750",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/vewyrq26bodv2-RO/image;s=750x1000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/xvb08606hsee3-RO/image;s=750x1000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/4g83uyqi7dfk2-RO/image;s=1000x750",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/yjnvh4elbltn1-RO/image;s=1000x750"
+    ],
+    "link": "https://www.olx.ro/d/oferta/ocazie-vand-audi-a-6-masina-de-familie-IDjmD1X.html",
+    "combustibil": "hybrid",
+    "transmisie": "automatic",
+    "caroserie": "Berlina",
+    "notes": ""
   }
 ]
