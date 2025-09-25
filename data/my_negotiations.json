@@ -215,5 +215,28 @@
     "transmisie": "N/A",
     "caroserie": "Berlina",
     "notes": ""
+  },
+  {
+    "id": "negotiation-1758800393283-gi8mey098",
+    "added_at": "2025-09-25T11:39:53.283Z",
+    "adId": "olx_jOXwq",
+    "titlu": "Ford Ranger Raptor Performance 3 0 Benzina 292Cp 2023 Primul Propietar",
+    "pret_numeric": 46500,
+    "year": "2023",
+    "kilometraj": "97 000",
+    "marca": "Ford",
+    "model": "Ranger",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/dyso9k23cawc-RO/image;s=1000x750",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/foa7gxp3218s-RO/image;s=1000x750",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/n9i4jwndzrnh3-RO/image;s=1000x750",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/kmywu113pa2a3-RO/image;s=1000x750",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/1v2rwc5bq0q12-RO/image;s=1000x750"
+    ],
+    "link": "https://www.olx.ro/d/oferta/ford-ranger-raptor-performance-3-0-benzina-292cp-2023-primul-propietar-IDjOXwq.html",
+    "combustibil": "petrol",
+    "transmisie": "automatic",
+    "caroserie": "SUV",
+    "notes": ""
   }
 ]
