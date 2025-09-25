@@ -169,5 +169,28 @@
     "transmisie": "automatic",
     "caroserie": "SUV",
     "notes": "mi-a lasat 38. maine trb sa-i dau 34\n"
+  },
+  {
+    "id": "negotiation-1758787790234-yakazizdj",
+    "added_at": "2025-09-25T08:09:50.234Z",
+    "adId": "olx_jQjTm",
+    "titlu": "Mercedes Glc Coupe 200 4 Matic",
+    "pret_numeric": 37750,
+    "year": "2019",
+    "kilometraj": "77 500",
+    "marca": "Unknown",
+    "model": "Unknown",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/4mrrg51uak4m2-RO/image;s=949x430",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/r6o2uc3csegz1-RO/image;s=985x838",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/fxks1uo0ypc91-RO/image;s=969x808",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/geps2imcw0bq-RO/image;s=1000x690",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/zgphey9m0mqk-RO/image;s=1000x754"
+    ],
+    "link": "https://www.olx.ro/d/oferta/mercedes-glc-coupe-200-4-matic-IDjQjTm.html",
+    "combustibil": "petrol",
+    "transmisie": "N/A",
+    "caroserie": "Coupe",
+    "notes": ""
   }
 ]
