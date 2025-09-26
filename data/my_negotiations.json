@@ -215,5 +215,22 @@
     "transmisie": "automatic",
     "caroserie": "SUV",
     "notes": "i-am dat 41"
+  },
+  {
+    "id": "negotiation-1758886359294-9cmdewgdu",
+    "added_at": "2025-09-26T11:32:39.294Z",
+    "adId": "olx_jQzej",
+    "titlu": "X6 Unic Proprietar",
+    "pret_numeric": 45000,
+    "year": "2020",
+    "kilometraj": "160 000",
+    "marca": "Unknown",
+    "model": "Unknown",
+    "images": [],
+    "link": "https://www.olx.ro/d/oferta/x6-unic-proprietar-IDjQzej.html",
+    "combustibil": "petrol",
+    "transmisie": "N/A",
+    "caroserie": "Berlina",
+    "notes": ""
   }
 ]
