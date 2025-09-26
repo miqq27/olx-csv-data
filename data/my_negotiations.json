@@ -232,5 +232,28 @@
     "transmisie": "N/A",
     "caroserie": "Berlina",
     "notes": ""
+  },
+  {
+    "id": "negotiation-1758896184299-fb9qclv1y",
+    "added_at": "2025-09-26T14:16:24.299Z",
+    "adId": "olx_jLzjY",
+    "titlu": "Bmw Seria 5 D Mild Hybrid Luxury Line",
+    "pret_numeric": 36058,
+    "year": "2021",
+    "kilometraj": "56 000",
+    "marca": "BMW",
+    "model": "Seria 5",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/m2kax3vd13qb2-RO/image;s=1500x2000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/1y6mmy1x2ed32-RO/image;s=1500x2000",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/q3dpmevi20ji2-RO/image;s=960x1280",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/l5ozs8l5wrb22-RO/image;s=960x1280",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/h9cc5dnjeooa-RO/image;s=960x1280"
+    ],
+    "link": "https://www.olx.ro/d/oferta/bmw-seria-5-d-mild-hybrid-luxury-line-IDjLzjY.html",
+    "combustibil": "diesel",
+    "transmisie": "automatic",
+    "caroserie": "Berlina",
+    "notes": ""
   }
 ]
