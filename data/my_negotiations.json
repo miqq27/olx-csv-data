@@ -227,5 +227,28 @@
     "transmisie": "automatic",
     "caroserie": "Berlina",
     "notes": ""
+  },
+  {
+    "id": "negotiation-1758990097707-2icw5hkj3",
+    "added_at": "2025-09-27T16:21:37.707Z",
+    "adId": "olx_jMtdc",
+    "titlu": "Vw Amarok Aventura Proprietar De Noua",
+    "pret_numeric": 46000,
+    "year": "2023",
+    "kilometraj": "52 000",
+    "marca": "Unknown",
+    "model": "Unknown",
+    "images": [
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/u3d6zvxlox713-RO/image;s=3072x4080",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/yvxlmbks3yz6-RO/image;s=3072x4080",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/06up95h024uc1-RO/image;s=3072x4080",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/pyulriwfpf1o-RO/image;s=3072x4080",
+      "https://frankfurt.apollo.olxcdn.com:443/v1/files/kaydy1clyuys3-RO/image;s=3072x4080"
+    ],
+    "link": "https://www.olx.ro/d/oferta/vw-amarok-aventura-proprietar-de-noua-IDjMtdc.html",
+    "combustibil": "diesel",
+    "transmisie": "automatic",
+    "caroserie": "Pickup",
+    "notes": ""
   }
 ]
